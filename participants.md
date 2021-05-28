@@ -2,7 +2,7 @@ A list of participants in CSC 195
 ---------------------------------
 
 *Please keep this list in alphabetical order by last name.*
-* gsfsg
+* Ezra
 * Tathagata Raha
 * Toby E. Baratta
 * Larry Boateng Asante
